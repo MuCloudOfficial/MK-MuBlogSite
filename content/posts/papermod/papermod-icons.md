@@ -123,5 +123,5 @@ params:
 
 ```yml {linenos=true}
 params:
-  ShareButtons: ["linkedin", "twitter"] # To customize which share buttons to be enabled on page
+  ShareButtons: ["linkedin"] # To customize which share buttons to be enabled on page
 ```
