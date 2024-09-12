@@ -54,7 +54,7 @@ languages:
           - name: Blog
             url: posts
           - name: Project DOC
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+            url: https://github.com/MuCloudOfficial/MK-MuBlogSite
 
 outputs:
   home:
