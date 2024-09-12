@@ -49,7 +49,7 @@ languages:
         imageTitle: Mu_Cloud
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        subtitle: "MADE IN VOID LAND | \"似遗殇陌路，亦无复故缘。\""
         buttons:
           - name: Blog
             url: posts
