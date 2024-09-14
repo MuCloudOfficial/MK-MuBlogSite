@@ -41,7 +41,7 @@ languages:
         - name: WiKi
           url: https://github.com/MuCloudOfficial/MuBlog
     params:
-      languageAltTitle: French
+      languageAltTitle: English
       profileMode:
         enabled: true
         title: Mu_Cloud
