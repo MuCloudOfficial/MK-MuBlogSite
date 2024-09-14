@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://mucloudofficial.github.io/MK-MuBlogSite"
+baseURL: "https://mucloudofficial.github.io/MuBlog"
 title: Mu_Cloud
 copyright: "© [Mu_Cloud](https://github.com/MuCloudOfficial)"
 paginate: 5
@@ -39,7 +39,7 @@ languages:
           url: tags/
           weight: 10
         - name: WiKi
-          url: https://github.com/MuCloudOfficial/MK-MuBlogSite
+          url: https://github.com/MuCloudOfficial/MuBlog
     params:
       languageAltTitle: French
       profileMode:
@@ -54,7 +54,7 @@ languages:
           - name: Blog
             url: posts
           - name: Project DOC
-            url: https://github.com/MuCloudOfficial/MK-MuBlogSite
+            url: https://github.com/MuCloudOfficial/MuBlog
 
 outputs:
   home:
